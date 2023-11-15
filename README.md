@@ -1,11 +1,6 @@
-## My Project
+## AIM402 - Using publicly available FMs on Amazon SageMaker JumpStart
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+Repository for training and deploying Generative AI models, including text-text, text-to-image generation, prompt engineering playground and chain of thought examples using SageMaker Studio.
 
 ## Security
 
